@@ -898,7 +898,7 @@ N'hésitez pas à explorer et à prendre en main vos déploiements Kubernetes !
         "running services": "Services en cours"
     },
     "NoRunningService": {
-        "launch one": "Clickez ici pour en lancer un",
+        "launch one": "Cliquez ici pour en lancer un",
         "no services running":
             "Vous n'avez actuellement aucun service en cours d'exécution"
     },
